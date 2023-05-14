@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "technical-test",
+    "slug": "technical-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "technical-test"
+}
